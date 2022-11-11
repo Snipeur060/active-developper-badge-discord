@@ -26,33 +26,35 @@ Application --> Bot --> Add bot
 
 <p>5. Go to your host</p>
 
-<p>6. Startup command</p>
+<p>6. You need to use node.js V16 absolutely</p>
+
+<p>7. Startup command</p>
 
 ```
 if [ -f /home/container/package.json ]; then /usr/local/bin/npm install; fi; /usr/local/bin/node /home/container/server.js
 ```
 
-<p>7. Change token and prefix</p>
+<p>8. Change token and prefix</p>
 
 ```
 server.js
 ```
 
-<p>8. Now start the bot and</p>
+<p>9. Now start the bot and</p>
 
-<p>9. Execute this command</p>
+<p>10. Execute this command</p>
 
 ```
 ++create
 ```
 
-<p>10. The bot create the application command</p>
+<p>11. The bot create the application command</p>
 
 ```
 /infos
 ```
 
-<p>11. And now is good you just need to wait 24 hours and claim the badge</p>
+<p>12. And now is good you just need to wait 24 hours and claim the badge</p>
 
   
   
