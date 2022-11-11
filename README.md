@@ -54,6 +54,12 @@ server.js
 /infos
 ```
 
+<p>If error : YOu need to give privilege application.command </p>
+```
+Take the id of your bot and replace IDHERE by the id of your bot
+https://canary.discord.com/api/oauth2/authorize?client_id=IDHERE&permissions=2147486888&scope=applications.commands%20bot
+```
+
 <p>12. And now is good you just need to wait 24 hours and claim the badge</p>
 
   
