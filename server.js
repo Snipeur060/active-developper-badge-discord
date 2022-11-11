@@ -2,14 +2,14 @@ const aoijs = require('aoi.js');
 
  const bot = new aoijs.Bot({
    token: "yourtoken",
-   prefix: "yourprefix",
+   prefix: "++",
    intents: "all",
    SuppressPackageErrors: true
  });
 
 bot.onMessage() //enables bot to see messages (required for executing Commands)
 bot.status({
-  text: "Made by 💻снайпер060⌨#1913",
+  text: "Made by 💻снайпер060⌨#1913 Prefix ++",
   type: "PLAYING",
   status: "dnd",
   time: 12
