@@ -24,7 +24,7 @@ $suppressErrors[]
 `
 })
 bot.command({
-name: "rthtjrjj",
+name: "Command",
 code: `
 $getApplicationCommandId[info]
 $deleteSlashCommand[global;$getApplicationCommandId[test]]`
