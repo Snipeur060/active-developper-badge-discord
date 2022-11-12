@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Active developper Badge</h1>
+<h1 align="center" id="title">Active Developper Badge Bot</h1>
 
 <p align="center"><img src="https://socialify.git.ci/Snipeur060/active-developper-badge-discord/image?description=1&amp;descriptionEditable=How%20to%20get%20the%20discord%20badge%20%3F&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
@@ -8,7 +8,7 @@
 
 Or:
 
-<p>1. Download github code</p>
+<p>1. Download Github Code</p>
 
 ```
 https://github.com/Snipeur060/active-developper-badge-discord/archive/refs/heads/main.zip
