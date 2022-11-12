@@ -14,7 +14,7 @@ Or:
 https://github.com/Snipeur060/active-developper-badge-discord/archive/refs/heads/main.zip
 ```
 
-<p>2. Create application in discord developper portal <img src="https://media.discordapp.net/attachments/853228421390663690/1040749218526138428/image.png"></p>
+<p>2. Create application in discord Developer portal <img src="https://media.discordapp.net/attachments/853228421390663690/1040749218526138428/image.png"></p>
 
 ```
 https://discord.com/developers/applications/
