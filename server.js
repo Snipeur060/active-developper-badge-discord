@@ -9,9 +9,9 @@ const aoijs = require('aoi.js');
 
 bot.onMessage() //enables bot to see messages (required for executing Commands)
 bot.status({
-  text: "Made by 💻снайпер060⌨#1913 Prefix ++",
-  type: "PLAYING",
-  status: "dnd",
+  text: "The Green Badge Prefix ++",
+  type: "WATCHING",
+  status: "online",
   time: 12
 })
     
@@ -24,7 +24,7 @@ $suppressErrors[]
 `
 })
 bot.command({
-name: "rthtjrjj",
+name: "deleteslash",
 code: `
 $getApplicationCommandId[info]
 $deleteSlashCommand[global;$getApplicationCommandId[test]]`
