@@ -9,9 +9,9 @@ const aoijs = require('aoi.js');
 
 bot.onMessage() //enables bot to see messages (required for executing Commands)
 bot.status({
-  text: "Made by 💻снайпер060⌨#1913 Prefix ++",
-  type: "PLAYING",
-  status: "dnd",
+  text: "The Green Badge",
+  type: "WATCHING",
+  status: "online",
   time: 12
 })
     
