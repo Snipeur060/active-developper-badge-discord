@@ -54,7 +54,7 @@ server.js
 /infos
 ```
 
-<p>If error : YOu need to give privilege application.command </p>
+<p>If error : You need to give privilege application.command </p>
 
 ```
 Take the id of your bot and replace IDHERE by the id of your bot
