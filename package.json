@@ -1,7 +1,7 @@
 {
     "name": "BadgeBot",
     "version": "1.0.0",
-    "description": "",
+    "description": "An Discord Bot for getting the Discord Active Developer Badge",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
