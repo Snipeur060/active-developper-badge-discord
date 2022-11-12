@@ -4,6 +4,10 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
+[![Run on Repl.it](https://replit.com/badge/github/Snipeur060/active-developper-badge-discord)](https://replit.com/new/github/Snipeur060/active-developper-badge-discord)
+
+Or:
+
 <p>1. Download github code</p>
 
 ```
