@@ -41,3 +41,14 @@ code:`
 $interactionReply[Badge]
 `
 })
+bot.readyCommand({
+ channel: '',
+ code: `$log[
+ Add your bot https://canary.discord.com/api/oauth2/authorize?client_id=$clientID&permissions=2147486888&scope=applications.commands%20bot
+ ]
+`
+ 
+ /*
+ Send the link to the console
+ */
+})
